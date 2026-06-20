@@ -79,18 +79,36 @@ npm run preview
 
 This portfolio is deployed using GitHub Pages.
 
-## 📧 Contact
+## 📱 Connect With Me
 
-Email: [team.codexpertdev@gmail.com](mailto:team.codexpertdev@gmail.com)
+🚀 Follow **@codexpert_dev** for high-quality coding content, project tutorials, and source code examples.
 
-Instagram: https://www.instagram.com/codexpert_dev/
+📸 Instagram: https://www.instagram.com/codexpert_dev/
 
-GitHub: https://github.com/codexpertdev
+🐙 GitHub: https://github.com/codexpertdev
+
+
+### What You'll Find
+
+* 🎥 Coding Reels & Short Tutorials
+* 💻 Web Development Projects
+* 📂 Source Code & GitHub Repositories
+* ⚡ JavaScript, React & Frontend Tips
+* 🎨 UI/UX Design Inspiration
+* 🛠️ Beginner-Friendly Programming Content
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome.
+
+Feel free to fork this repository and submit a pull request.
 
 ## 📄 License
 
-This project is open source and available under the MIT License.
+This project is open-source and available for educational and personal use.
 
 ---
 
-⭐ If you like this portfolio, feel free to star the repository.
+Made with ❤️ by **CodExpert Dev**
+
+⭐ If you enjoyed this project, consider starring the repository and following for more coding content.
